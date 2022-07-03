@@ -1,5 +1,10 @@
 ☁️
 
+<div>
+  <img align="right" height="90" weight="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="right" height="90" weight="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
+</div>
+
 ## HTML5 e CSS3 do Curso em Vídeo - Módulo II - Projeto Android
 
 ### <a href="https://viniciusm0raes.github.io/projeto-android/index.html" target="_blank"> Desafio Responsivo - Projeto Android</a>
@@ -11,8 +16,7 @@
 ### <a href="https://viniciusm0raes.github.io/projeto-cordel/index.html" target="_blank"> Mini-Projeto Cordel</a>
 
 ***
-
-### Exercícios Extras com CSS  
+### Exercícios Extras com CSS
 ***
   
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/background-animado.html"> Background Animado (CSS)</a></li>  
