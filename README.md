@@ -12,8 +12,7 @@
 
 ***
 
-### Exercícios Extras com CSS
-  
+### Exercícios Extras com CSS  
 ***
   
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/background-animado.html"> Background Animado (CSS)</a></li>  
