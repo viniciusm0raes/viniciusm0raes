@@ -12,7 +12,7 @@
 
 ## HTML5 e CSS3 do Curso em Vídeo - Módulo III - Projeto Cordel Moderno de Milton Duarte
 
-### <a href="https://viniciusm0raes.github.io/projeto-cordel/index.html" target="_blank"> Mini-projeto Cordel</a>
+### <a href="https://viniciusm0raes.github.io/projeto-cordel/index.html" target="_blank"> Mini-Projeto Cordel</a>
 
 ***
 
