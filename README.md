@@ -6,19 +6,16 @@
 </div>
 
 ## HTML5 e CSS3 do Curso em Vídeo - Módulo II - Projeto Android
-
 ### <a href="https://viniciusm0raes.github.io/projeto-android/index.html" target="_blank"> Desafio Responsivo - Projeto Android</a>
 
 ***
 
 ## HTML5 e CSS3 do Curso em Vídeo - Módulo III - Projeto Cordel Moderno de Milton Duarte
-
 ### <a href="https://viniciusm0raes.github.io/projeto-cordel/index.html" target="_blank"> Mini-Projeto Cordel</a>
 
 ***
 ### Exercícios Extras com CSS
-***
-  
+***  
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/background-animado.html"> Background Animado (CSS)</a></li>  
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/efeito-texto.html"> Efeito Texto Digitado (CSS)</a></li>  
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/bordas-hover.html"> Bordas no Hover (CSS)</a></li>  
@@ -40,3 +37,4 @@
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 </div>
+<br>
