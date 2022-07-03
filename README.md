@@ -15,7 +15,6 @@
 ### Exercícios Extras com CSS
   
 ***
-
   
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/background-animado.html"> Background Animado (CSS)</a></li>  
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/efeito-texto.html"> Efeito Texto Digitado (CSS)</a></li>  
