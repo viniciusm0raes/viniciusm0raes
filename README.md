@@ -22,6 +22,12 @@
 ### <a href="https://viniciusm0raes.github.io/projeto-cordel/index.html" target="_blank"> Mini-Projeto Cordel</a>
 
 ***
+
+## HTML5 e CSS3 do Curso em Vídeo - Módulo IV - Projeto Redes Sociais
+### <a href="https://viniciusm0raes.github.io/projeto-rsocial/index.html" target="_blank"> Projeto Redes Sociais</a>
+
+***
+
 ### Exercícios Extras com CSS
 ***  
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/background-animado.html"> Background Animado (CSS)</a></li>  
