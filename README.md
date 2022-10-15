@@ -35,7 +35,6 @@
 ### <a href="https://viniciusm0raes.github.io/projeto-login/index.html" target="_blank"> Projeto Tela de Login</a>
 
 ***
-***
 
 ## Exercícios Extras com CSS
 
