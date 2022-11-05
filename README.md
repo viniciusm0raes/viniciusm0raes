@@ -1,5 +1,3 @@
-☁️
-
 <div>
   <img align="left" height="90" weight="100" src="programacao.png" />
 </div>
@@ -47,6 +45,10 @@
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/grid_object-fit_responsivo.html"> Galeria Responsiva com Grid / Object-Fit (CSS)</a></li>  
   
 ***
+## Estudos iniciais da linguagem Python
+### <a href="https://github.com/viniciusm0raes/python" target="_blank"> Python</a>
+
+***
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusm0raes&show_icons=true&theme=gruvbox">
@@ -57,6 +59,7 @@
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-</div>
+  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
+  <img align="left" height="30" weight="40" src="https://i.imgur.com/gQ7hH8v.png"/>
+  </div>
 <br>
