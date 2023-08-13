@@ -1,5 +1,5 @@
 <div>
-  <a href="https://viniciusm0raes.github.io" target="_blank">
+  <a href="https://github.com/viniciusm0raes" target="_blank">
     <img align="left" height="90" weight="100" src="programacao.png" />
   </a>
 </div>
