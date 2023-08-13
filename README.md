@@ -1,5 +1,5 @@
 <div>
-  <img align="left" height="90" weight="100" src="programacao.png" />
+  <a href="https://viniciusm0raes.github.io" target="_blank"><img align="left" height="90" weight="100" src="programacao.png" /></a>
 </div>
 <div>
   <img align="right" height="90" weight="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
