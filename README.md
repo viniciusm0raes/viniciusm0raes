@@ -44,7 +44,7 @@
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/loader-css.html"> Loader (CSS)</a></li>  
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/loader-css-svg.html"> Loader SVG (CSS)</a></li>  
 <li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/revelar-bloco.html"> Revelar Bloco (CSS)</a></li>  
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/grid_object-fit_responsivo.html"> Galeria Responsiva com Grid / Object-Fit (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/grid_object-fit/grid_object-fit_responsivo.html"> Galeria Responsiva com Grid / Object-Fit (CSS)</a></li>  
   
 ***
 ## Estudos iniciais da linguagem Python
