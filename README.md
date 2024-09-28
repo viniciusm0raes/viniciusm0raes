@@ -38,13 +38,13 @@
 
 ## Exercícios Extras com CSS
 
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/background-animado.html"> Background Animado (CSS)</a></li>  
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/efeito-texto.html"> Efeito Texto Digitado (CSS)</a></li>  
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/bordas-hover.html"> Bordas no Hover (CSS)</a></li>  
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/loader-css.html"> Loader (CSS)</a></li>  
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/loader-css-svg.html"> Loader SVG (CSS)</a></li>  
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/revelar-bloco.html"> Revelar Bloco (CSS)</a></li>  
-<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/grid_object-fit/grid_object-fit_responsivo.html"> Galeria Responsiva com Grid / Object-Fit (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/background-animado.html" target="_blank"> Background Animado (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/efeito-texto.html" target="_blank"> Efeito Texto Digitado (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/bordas-hover.html" target="_blank"> Bordas no Hover (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/loader-css.html" target="_blank"> Loader (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/loader-css-svg.html" target="_blank"> Loader SVG (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/revelar-bloco.html" target="_blank"> Revelar Bloco (CSS)</a></li>  
+<li><a href="https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/grid_object-fit/grid_object-fit_responsivo.html" target="_blank"> Galeria Responsiva com Grid / Object-Fit (CSS)</a></li>  
   
 ***
 ## Estudos iniciais da linguagem Python
@@ -62,6 +62,6 @@
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>  
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />         
+  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>         
   </div>
 <br>
