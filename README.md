@@ -38,7 +38,6 @@
 ***
 
 ### [Exercícios HTML5 / CSS3 - Módulo II](https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&si=9nah4K3J3vuAKDY3)
-
 ***
 
 * [Cores em CSS](https://viniciusm0raes.github.io/html-css/exercicios/ex016/cor01.html)
@@ -63,7 +62,6 @@
 ***
 
 ### [Exercícios HTML5 / CSS3 - Módulo III](https://youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&si=3bZtdMrhx7OnScoG)
-
 ***
 * [Distribuição e Background das DIVs](https://viniciusm0raes.github.io/html-css/exercicios/ex022/fundo001.html)
 * [Personalização dos Backgrounds](https://viniciusm0raes.github.io/html-css/exercicios/ex022/fundo002.html)
@@ -88,7 +86,6 @@
 ***
 
 ### [Exercícios HTML5 / CSS3 - Módulo IV](https://youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&si=CD05eAXw472ZMWYM)
-
 ***
 * [Estudos de iframe](https://viniciusm0raes.github.io/html-css/exercicios/ex024/iframe001.html)
 * [Teste com iframe](https://viniciusm0raes.github.io/html-css/exercicios/ex024/iframe002.html)
@@ -117,7 +114,6 @@
 ***
 
 ### [Exercícios HTML5 / CSS3 - Módulo V](https://youtube.com/playlist?list=PLHz_AreHm4dn1bAtIJWFrugl5z2Ej_52d&si=s4cAUpj8ykCgH6_0)
-
 ***
 * [Flexbox - display](https://viniciusm0raes.github.io/html-css/exercicios/ex027/flex001/index.html)
 * [Flexbox - flex-direction](https://viniciusm0raes.github.io/html-css/exercicios/ex027/flex002/index.html)
