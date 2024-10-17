@@ -136,7 +136,6 @@
 ***
 ### Dicas Visual Studio Code
 * [Criando TAG's Aninhadas](https://viniciusm0raes.github.io/html-css/dicas/tags_aninhadas.html)
-
 ***
 ### Exercícios Extras com CSS 
 
