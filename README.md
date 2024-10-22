@@ -4,7 +4,7 @@
   <img align="right" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin:0 8px"/>
   <img align="right" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin:0 8px"/>
   <img align="right" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" style="margin:0 8px"/>  
-  <img align="right" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/ style="margin:0 8px">
+  <img align="right" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="margin:0 8px"/>
 </div>
 
 
