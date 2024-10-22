@@ -1,18 +1,15 @@
 <div>
-  <a href="https://github.com/viniciusm0raes" target="_blank">
-    <img align="left" height="90" weight="100" src="programacao.png" />
-  </a>
+  <img align="left" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/ style="margin:0 8px">         
+  <img align="left" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" style="margin:0 8px"/>  
+  <img align="left" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin:0 8px"/>
+  <img align="left" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin:0 8px"/>
+  <img align="left" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin:0 8px"/>
+  <img align="left" height="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" style="margin:0 8px"/>
 </div>
-<div>
-  <img align="right" height="90" weight="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
-  <img align="right" height="90" weight="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-</div>
+
 
 <br>
 <br>
-<br>
-<br>
-
 
 ## [HTML5 / CSS3 do Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo/search?query=html5%20e%20css3)
 
@@ -149,17 +146,12 @@
 * [Galeria Responsiva com Grid / Object-Fit (CSS)](https://viniciusm0raes.github.io/html-css/exercicios/ex_extras/grid_object-fit/grid_object-fit_responsivo.html)
 
 ***
+### Estudos iniciais da linguagem Python
+* [Questões indicadas e executadas graças a ajuda da "tia" Pessoa...](https://github.com/viniciusm0raes/python)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusm0raes&show_icons=true&theme=gruvbox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusm0raes&layout=compact">
 </div>
-<div>
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>  
-  <img align="left" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>         
-  </div>
+
 <br>
